@@ -1,2 +1,3 @@
 # MoveSync
-Web app for the dancers to check in choreography synchronization individually or the whole crew!
+Pose comparison system using MediaPipe and pose landmark analysis. Calculates similarity scores and enables performance feedback.
+
